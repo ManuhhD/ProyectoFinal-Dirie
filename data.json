@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Coca-cola 1L",
+      "price": 20,
+      "image": "assets/product1.png"
+    },
+    {
+      "id": 2,
+      "name": "Coca-cola 2L",
+      "price": 40,
+      "image": "assets/product2.png"
+    },
+    {
+      "id": 3,
+      "name": "Coca-cola 3L",
+      "price": 60,
+      "image": "assets/product3.png"
+    },
+    {
+      "id": 4,
+      "name": "latas de Coca-cola 350L",
+      "price": 35,
+      "image": "assets/product4.png"
+    }
+  ]
+  
